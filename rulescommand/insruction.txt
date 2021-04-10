@@ -1,0 +1,38 @@
+Hi their,
+This script is made from lanes development
+I hope you enjoy this script and the instructions to download it will de down below
+best regards,
+Lane
+
+
+
+
+
+
+INTRUSCTIONS p.s. you might want to follow them if you are new to developing
+
+Fisrt download the resource,
+Then open it you will see the client file and the fx manifest do not delete them 
+You will need to go to the client.lua file and open it 
+then you will need to put your link to your rules or your discord for the rules because this script is made to show people the rules
+also feel free to change it if you know what your doing
+once yo have sorted out the client.lua then you will need to go to your resources folder 
+then you will need to put into their if you have a scripts folder you can put it in their it wont change anything
+next you need to open your server.cfg 
+here comes the inportant part if you are home hosting a server then you want to put ensure the name of the resource
+if you do zap hosting or iceline hosting then you need to do start then go into game either restart the server or refresh and start the resource
+
+
+ok... once you have followed the instructions then you should have the resource in game 
+
+thanks for downloading my script
+for more scripts liverys etc. join my dev discord down below
+
+best regards,
+Lane
+
+
+
+Discord: https://discord.gg/3cDfxmGhPe
+
+My server: https://discord.gg/TYyZvF8zdB
